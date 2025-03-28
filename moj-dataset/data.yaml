@@ -1,0 +1,14 @@
+names:
+- blue_cone
+- orange_cone
+- yellow_cone
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cone-detection-tfzmr
+  url: https://universe.roboflow.com/mvferi/cone-detection-tfzmr/dataset/5
+  version: 5
+  workspace: mvferi
+test: test/images
+train: train/images
+val: valid/images
